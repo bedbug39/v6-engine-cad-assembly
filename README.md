@@ -83,6 +83,12 @@ Through this project, I improved my understanding of:
 - Complex CAD modelling workflow
 - Managing a larger Fusion 360 project
 
+## Technical Documentation
+
+More detailed notes about the modelling process, assembly development, and learning outcomes are available here:
+
+[View Design Notes](documentation/design-notes.md)
+
 ## Project Attribution
 
 This project was created for **educational and CAD practice purposes** using a YouTube video as a modelling reference.
