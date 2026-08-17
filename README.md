@@ -67,7 +67,9 @@ The Fusion 360 component browser shows how the different parts and subassemblies
 
 ## Motion Demonstration
 
-A short animation demonstrating crankshaft rotation and piston movement will be included in the `motion/` directory.
+The assembly includes a motion study where crankshaft rotation produces reciprocating piston movement.
+
+▶️ [Watch the crankshaft and piston motion](motion/crankshaft_pistons_motion.mp4)
 
 ## What I Learned
 
@@ -91,3 +93,9 @@ The original V6 engine concept and reference design are not my own. The CAD recr
 
 **Siam Ibne Sarwar (Sinan)**
 Mechanical Design · Robotics · Hardware Integration
+
+## Reference
+
+This project was recreated and redesigned for educational and CAD practice purposes using a YouTube video as a modelling reference.
+
+Reference video: [V6 Engine CAD Modelling Reference](https://youtu.be/HFgA1k3GR6E?si=uMbqexxWXmb562Iy)
